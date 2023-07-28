@@ -1,0 +1,3 @@
+#selectPathBtn,#startDownBtn,#backToLogBtn{
+     background-color: #328ffe;
+}

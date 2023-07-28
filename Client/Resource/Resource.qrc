@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>mainWindow.qss</file>
+        <file>qss/mainPage.qss</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/sudaqiang.png</file>
+    </qresource>
+    <qresource prefix="/config">
+        <file>conf/break.txt</file>
+        <file>conf/keys.txt</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/audioIcon.png</file>
+        <file>icon/pic.png</file>
+        <file>icon/txtIcon.png</file>
+        <file>icon/vedioIcon.png</file>
+    </qresource>
+    <qresource prefix="/lib">
+        <file>lib/libcrypto.lib</file>
+        <file>lib/libcrypto-3-x64.dll</file>
+        <file>lib/libssl.lib</file>
+        <file>lib/libssl-3-x64.dll</file>
+        <file>lib/ws2_32.dll</file>
+        <file>lib/zlibwapi.dll</file>
+        <file>lib/zlibwapi.lib</file>
+    </qresource>
+</RCC>

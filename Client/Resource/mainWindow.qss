@@ -1,0 +1,19 @@
+#welcomLabel,#welcomLabel_2,#welcomLabel_3,#welcomLabel_4,#passwordLabel,#passwordInput,#usernameLabel,#usernameInput{
+   color : white;
+}
+#usernameInput,#passwordInput{
+    color : white;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid white;
+}
+#logBtn{
+    border-radius: 3px 3px;
+    color : white;
+    background-color: #328ffe;
+}
+#registBtn{
+   color : red;
+   border: none;
+   background-color: transparent;
+}
